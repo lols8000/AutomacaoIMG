@@ -1,0 +1,1 @@
+C:\Suporte\chamaScript.vbs
